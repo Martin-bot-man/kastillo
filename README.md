@@ -1,6 +1,6 @@
-# [Rolling Hills Industries](https://rolling-hills-industries.vercel.app/)
+# (https://rolling-hills-industries.vercel.app/)
 
-## This is the official website for a commercial cleaning business, designed to showcase services and provide a platform for customer inquiries.
+## This is the official website for a commercial cleaning business.
 
 ### Built with: `Next.js` + `React` + `TypeScript` + `TailwindCSS`
 ### Tools: `EmailJS` + `Google reCAPTACHA` + `Google Analytics`
