@@ -142,7 +142,7 @@ export default function Home() {
                             <div className="flex flex-col gap-3 xl:gap-5">
                                 <p>
                                     Kastillo Cleaners serves businesses
-                                    and organizations in Nairobi, Mombase
+                                    and organizations in Nairobi, Mombasa
                                     and surrounding counties.
                                 </p>
                                 <p>

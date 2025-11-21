@@ -10,7 +10,7 @@ export default function ScheduleMeeting() {
                     </h2>
                     <div className="flex flex-col gap-3 xl:gap-5">
                         <p>
-                            Rolling Hills is committed to providing tailored
+                            Kastillo Cleaners is committed to providing tailored
                             cleaning solutions that meet your specific needs.
                             During this free on-site meeting, one of our
                             experienced representatives will visit your place of
