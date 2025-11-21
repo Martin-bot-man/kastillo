@@ -9,24 +9,24 @@ const inriaSans = Inria_Sans({
 });
 
 export const metadata: Metadata = {
-    title: "Rolling Hills Industries | Commercial Cleaning Company",
+    title: "Kastillo Cleaners | Commercial Cleaning Company",
     description:
-        "Rolling Hills Industries is a commercial cleaning company and supply dealer proudly serving Western Pennsylvania, offering top-quality cleaning services and bulk cleaning supplies for businesses.",
+        "Kastillo Cleaners is a commercial cleaning company and supply dealer proudly serving Kenya, offering top-quality cleaning services and bulk cleaning supplies for businesses.",
     generator: "Next.js 13 + React 18 + Tailwind CSS",
-    applicationName: "Rolling Hills Industries",
+    applicationName: "Kastillo Cleaners",
     keywords: [
         "commercial cleaning",
         "cleaning services",
-        "Western Pennsylvania",
+        "Kenya",
     ],
     authors: [
         {
-            name: "Kaitlin Lovrich",
-            url: "https://kaitlin-lovrich-portfolio.vercel.app/",
+            name: "Martin Owino",
+            url: "https://https://kastillo.vercel.app//",
         },
     ],
-    creator: "Kaitlin Lovrich",
-    publisher: "Rolling Hills Industries",
+    creator: "Martin Owino",
+    publisher: "Kastillo Cleaners",
     formatDetection: {
         email: false,
         address: false,

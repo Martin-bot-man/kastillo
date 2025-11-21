@@ -21,7 +21,7 @@ export default function JanitorialServices() {
                     </h2>
                     <div className="flex flex-col gap-3 xl:gap-5 px-2 lg:px-0">
                         <p>
-                            When you hire Rolling Hills Industries for
+                            When you hire Kastillo Cleaners for
                             janitorial services, you can rest assured knowing
                             that we use only high-quality disinfectants and
                             cleaning products to clean bathrooms, including
@@ -126,8 +126,8 @@ export default function JanitorialServices() {
                                 <p>
                                     Our mission is to be the premier provider of
                                     commercial and industrial cleaning services
-                                    and products in Westmoreland, Indiana and
-                                    surrounding counties. We love our customers
+                                    and products in East-Africa  and
+                                    surrounding countries. We love our customers
                                     and we love to keep their facilities clean.
                                     By listening and responding we build
                                     satisfying relationships with our clients

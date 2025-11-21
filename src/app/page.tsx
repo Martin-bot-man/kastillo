@@ -11,7 +11,7 @@ export default function Home() {
                 altText="Shiny night city"
                 isHomePage={true}
             >
-                <h1>ROLLING HILLS COMMERCIAL CLEANING SERVICES</h1>
+                <h1>KASTILLO COMMERCIAL CLEANING SERVICES</h1>
                 <Link
                     href="/schedule-meeting"
                     className="text-lg sm:text-2xl 2xl:text-3xl *:gap-0.5 *:sm:gap-4 *:pl-5 *:sm:pl-10 *:py-2 *:lg:py-3   *:*:*:size-9 *:*:*:sm:size-10 *:*:*:2xl:size-11  *:*:pr-1.5 *:*:sm:pr-4"
@@ -19,7 +19,7 @@ export default function Home() {
                     <Button text={"BOOK A FREE ON-SITE ESTIMATE"} />
                 </Link>
                 <span className="text-xl sm:text-2xl lg:text-3xl 2xl:text-4xl">
-                    Cleaning Western PA Since 1986, Proudly Employee Owned Since
+                    Cleaning Kenya Since 2022, Proudly Employee Owned Since
                     2022
                 </span>
             </Banner>
@@ -54,7 +54,7 @@ export default function Home() {
                         <div className="flex flex-col justify-around items-center w-full lg:w-1/2 text-center lg:text-start gap-8 lg:gap-0">
                             <div className="flex flex-col gap-3 xl:gap-5">
                                 <p>
-                                    Rolling Hills Industries&apos; value to you
+                                    Kastillo Cleaners&apos; value to you
                                     is defined by the high quality we bring to
                                     your facilities and reduced downtime in your
                                     labor, processes, supplies and equipment.
@@ -141,8 +141,8 @@ export default function Home() {
                         <div className="flex flex-col justify-around items-center w-full lg:w-1/2 text-center lg:text-start gap-8 lg:gap-0">
                             <div className="flex flex-col gap-3 xl:gap-5">
                                 <p>
-                                    Rolling Hills Industries serves businesses
-                                    and organizations in Westmoreland, Indiana
+                                    Kastillo Cleaners serves businesses
+                                    and organizations in Nairobi, Mombase
                                     and surrounding counties.
                                 </p>
                                 <p>
@@ -178,9 +178,9 @@ export default function Home() {
                         Our Clients
                     </h2>
                     <p className="w-full max-w-[1400px] sm:w-[90%] md:w-[85%] xl:w-[95%] mx-auto">
-                        Rolling Hills offers dependable and professional
+                        Kastillo Cleaners offers dependable and professional
                         cleaning and janitorial services for any business or
-                        organization in Westmoreland, Indiana, and surrounding
+                        organization in Nairobi, Mombasa, and surrounding
                         counties.
                     </p>
                     <div className="flex">

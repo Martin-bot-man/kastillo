@@ -16,28 +16,28 @@ export default function About() {
             <section className="mx-auto w-[95%] max-w-[1400px] lg:mt-4">
                 <article className="flex flex-col justify-center items-center gap-5 lg:gap-7 xl:gap-10 px-2 lg:px-0 text-center w-full max-w-[1430px] sm:w-[90%] md:w-[85%] xl:w-[95%] mx-auto *:leading-relaxed">
                     <h2 className="text-navy-blue text-center font-bold text-2xl sm:text-3xl lg:text-4xl xl:text-5xl">
-                        About Rolling Hills Industries
+                        About Kastillo Cleaners
                     </h2>
                     <div className="flex flex-col gap-3 xl:gap-5">
                         <p>
-                            Rolling Hills Industries has been locally owned and
-                            serving Western PA since 1986, and proudly
+                            Kastillo Cleaners has been locally owned and
+                            serving Kenyan PA since 2022, and proudly
                             employee-owned since 2022! We don&apos;t require a
                             long-term contract with our customers. From 2,000
                             square foot dentist office to a 200,000 square foot
                             plant, no job is too big or too small for us to
                             handle.{" "}
                             <a
-                                href="tel:+1724-539-4199"
+                                href="tel:+254-797-782614"
                                 className="underline decoration-yellow decoration-4 underline-offset-4 text-navy-blue font-bold"
-                                aria-label="Call Rolling Hills Industries for a free estimate"
+                                aria-label="Kastillo cleaners for a free estimate"
                             >
                                 Call us
                             </a>{" "}
                             for a FREE estimate today!
                         </p>
                         <p>
-                            The team at Rolling Hills Industries considers
+                            The team at Kastillo cleaners considers
                             customer service as our #1 priority. The entire team
                             has been trained and works at various janitorial
                             sites performing various janitorial services. Our
@@ -51,16 +51,16 @@ export default function About() {
             <section className="mx-auto w-[95%] max-w-[1400px]">
                 <article className="flex flex-col justify-center items-center gap-5 lg:gap-7 xl:gap-10 px-2 lg:px-0 text-center w-full max-w-[1430px] sm:w-[90%] md:w-[85%] xl:w-[95%] mx-auto *:leading-relaxed">
                     <h2 className="text-navy-blue text-center font-bold text-2xl sm:text-3xl lg:text-4xl xl:text-5xl">
-                        Why Choose Rolling Hills?
+                        Why Choose Kastillo Cleaners?
                     </h2>
                     <div className="flex flex-col gap-3 xl:gap-5">
                         <p>
                             Cleaning and janitorial services are critical to our
                             commercial and industrial client, that is why
-                            Rolling Hills is this region&apos;s most dependable
+                            Kastillo cleaners is this region&apos;s most dependable
                             and professional business cleaning service. We serve
-                            businesses and organizations in Westmoreland,
-                            Indiana and surrounding counties. Whether large or
+                            businesses and organizations in Nairobi,
+                            Mombasa and surrounding counties. Whether large or
                             small, they all consider that a clean facility is
                             essential to the comfort, health and safety of their
                             customers and contributes to the productivity and
