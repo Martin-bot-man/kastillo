@@ -23,7 +23,7 @@ export default function Employment() {
                     <div className="w-full *:max-w-[350px] *:lg:max-w-[430px] mt-2 bg-light-blue/30 flex flex-col items-center py-3 drop-shadow-xl text-navy-blue font-bold px-8 text-center">
                         <span>
                             We Offer Competitive Pay Rates + Ownership Equity +
-                            Flexible Scheduling + PTO + 401(k) Match + Benefits
+                            Flexible Scheduling + PTO + Benefits
                         </span>
                     </div>
                     <h3 className="text-navy-blue text-center font-bold text-xl sm:text-2xl lg:text-3xl xl:text-4xl">

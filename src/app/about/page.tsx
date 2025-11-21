@@ -21,7 +21,7 @@ export default function About() {
                     <div className="flex flex-col gap-3 xl:gap-5">
                         <p>
                             Kastillo Cleaners has been locally owned and
-                            serving Kenyan PA since 2022, and proudly
+                            serving Kenyan since 2022, and proudly
                             employee-owned since 2022! We don&apos;t require a
                             long-term contract with our customers. From 2,000
                             square foot dentist office to a 200,000 square foot

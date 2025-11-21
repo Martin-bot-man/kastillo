@@ -82,7 +82,7 @@ export function ContactBanner({
                             <span className="*:size-4 text-white group-hover:text-yellow scale-100 *:group-hover:scale-110 *:duration-500 *:ease-out pr-2">
                                 <FaPhone />
                             </span>
-                            Call 724-539-4199
+                            Call +254-797-826-14
                         </button>
                         <button
                             onClick={() =>
@@ -109,7 +109,7 @@ export function ContactBanner({
                                 <span className="*:size-4 text-white group-hover:text-yellow scale-100 *:group-hover:scale-110 *:duration-500 *:ease-out pr-2">
                                     <FaPhone />
                                 </span>
-                                Click to call 724-539-4199
+                                Click to call+254-797-782-614
                             </button>
                             <button
                                 onClick={() => setShowBanner(false)}
