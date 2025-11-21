@@ -366,7 +366,7 @@ export default function Contact() {
                         src="https://www.google.com/maps/place/Hurlingham+Ct,+London,+UK/@51.4671782,-0.2106932,17z/data=!3m1!4b1!4m6!3m5!1s0x48760f738b09ce53:0x57622ecfe57ea418!8m2!3d51.4671782!4d-0.2081183!16s%2Fg%2F11x8_lm6ps?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D"
                         width={"100%"}
                         height={"100%"}
-                        style={{ border: "0" }}
+                        style={{ border: 0 }}
                         loading="lazy"
                         referrerPolicy="no-referrer-when-downgrade"
                     ></iframe>
