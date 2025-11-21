@@ -69,11 +69,11 @@ export default function About() {
                     </div>
                 </article>
             </section>
-            <section className="mx-auto w-[95%] max-w-[1400px]">
+           <section className="mx-auto w-[95%] max-w-[1400px]">
                 <article className="w-full mt-2 mb-5 drop-shadow-lg">
                     <iframe
                         className="aspect-video h-full min-h-[545px] lg:min-h-[650px] max-h-[800px] xl:max-h-[900px] rounded-xl"
-                        src="https://www.google.com/maps/place/Hurlingham+Ct,+London,+UK/@51.4671782,-0.2106932,17z/data=!3m1!4b1!4m6!3m5!1s0x48760f738b09ce53:0x57622ecfe57ea418!8m2!3d51.4671782!4d-0.2081183!16s%2Fg%2F11x8_lm6ps?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8193084776896!2d36.7856!3d-1.2833!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f10d6b1c3c1a3%3A0x1234567890abcdef!2sHurlingham%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1234567890123!5m2!1sen!2ske"
                         width={"100%"}
                         height={"100%"}
                         style={{ border: "0" }}
