@@ -16,8 +16,7 @@ export default function PrivacyPolicy() {
                             visitors use this website. Google Analytics is a
                             tool that tracks and reports on various user
                             activities such as page views, clicks, scrolls, and
-                            user engagement. Specifically, Rolling Hills
-                            Industries tracks the following metrics:
+                            user engagement. Specifically, Kastillo Cleaners tracks the following metrics:
                         </p>
                         <ul className="list-disc mx-8">
                             <li>
