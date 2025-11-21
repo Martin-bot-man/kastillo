@@ -41,15 +41,15 @@ export function Footer({ ref }: FooterProps) {
                             LOCATION
                         </h3>
                         <address className="flex flex-col not-italic gap-.5 text-lg md:text-start font-normal">
-                            <p>Rolling Hills Industries</p>
-                            <p>700 Hoke St</p>
-                            <p>Latrobe, PA 15650</p>
+                            <p>Kastillo cleaners</p>
+                            <p>Hurlingham</p>
+                            <p>Old Court building</p>
                             <p className="pt-6">
                                 <a
                                     href="tel:724-539-4199"
                                     className="hover:underline"
                                 >
-                                    724-539-4199
+                                    0797-782-614
                                 </a>
                             </p>
                         </address>
@@ -79,11 +79,11 @@ export function Footer({ ref }: FooterProps) {
                                 target="_blank"
                                 rel="noopener noreffer"
                             >
-                                Kaitlin Lovrich
+                                Martin Owino
                             </a>
                         </p>
                         <p>
-                            Copyright © 2024 Rolling Hills Industries. All
+                            Copyright © 2025 Kastillo Cleaners. All
                             rights Reserved.
                         </p>
                         <p className="*:duration-300 *:ease-out">
