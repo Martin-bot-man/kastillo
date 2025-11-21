@@ -8,6 +8,6 @@
 <br/>
 <div align="center">
   <a href="https://rolling-hills-industries.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/f219b2d7-40aa-46e8-b2b1-46066718a9d9" alt="Rolling Hills homepage" width="700" />
+    <!-- <img src="https://github.com/user-attachments/assets/f219b2d7-40aa-46e8-b2b1-46066718a9d9" alt="Kastillo homepage" width="700" /> -->
   </a>
 </div>
