@@ -1,4 +1,5 @@
 export * from "./Banner";
+export * from "./BrandMark";
 export * from "./Header";
 export * from "./PromoBanner";
 export * from "./Button";

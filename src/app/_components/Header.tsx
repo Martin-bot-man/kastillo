@@ -1,9 +1,13 @@
 "use client";
 import Link from "next/link";
-import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
-import { DesktopNavigation, MobileNavigation, PromoBanner } from "./index";
+import {
+    BrandMark,
+    DesktopNavigation,
+    MobileNavigation,
+    PromoBanner,
+} from "./index";
 import { AnimatedMenuIcon } from "./AnimatedMenu";
 
 export function Header() {
@@ -36,19 +40,12 @@ export function Header() {
                     href={"/"}
                     className={`duration-500 ease-out relative ${
                         isScrolledToTop
-                            ? "w-[128px] h-[84px] md:w-[144px] md:h-[95px] lg:w-[170px] lg:h-[112px]"
-                            : "w-[96px] h-[63px] md:w-[112px] md:h-[74px] lg:w-[130px] lg:h-[86px]"
+                            ? "w-[214px] md:w-[240px] lg:w-[280px]"
+                            : "w-[190px] md:w-[220px] lg:w-[250px]"
                     }`}
+                    aria-label="kastillo cleaners"
                 >
-                    <Image
-                        src="/rolling-hills-industries-cleaning-company-logo.png"
-                        alt="Rolling Hills Industries Commercial Cleaning Company"
-                        className="duration-500 ease-out hover:scale-105 scale-100"
-                        fill={true}
-                        sizes="(max-width: 768px) 96px, (max-width: 1024px) 112px, 170px"
-                        priority={true}
-                        quality={100}
-                    />
+                    <BrandMark className="duration-500 ease-out hover:scale-105 scale-100" />
                 </Link>
 
                 <nav className="relative">

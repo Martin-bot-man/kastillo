@@ -1,12 +1,6 @@
 import type { Metadata } from "next";
-import { Inria_Sans } from "next/font/google";
 import "./globals.css";
 import { ClientLayout } from "./_components/index";
-
-const inriaSans = Inria_Sans({
-    weight: ["300", "400", "700"],
-    subsets: ["latin"],
-});
 
 export const metadata: Metadata = {
     title: "Kastillo Cleaners | Commercial Cleaning Company",
@@ -22,7 +16,7 @@ export const metadata: Metadata = {
     authors: [
         {
             name: "Martin Owino",
-            url: "https://https://kastillo.vercel.app//",
+            url: "https://kastillo.vercel.app/",
         },
     ],
     creator: "Martin Owino",
@@ -54,9 +48,7 @@ export default function RootLayout({
                     as="script"
                 />
             </head>
-            <body
-                className={`${inriaSans.className} text-dark-gray text-lg lg:text-xl xl:text-2xl`}
-            >
+            <body className="text-dark-gray text-lg lg:text-xl xl:text-2xl">
                 <ClientLayout>{children}</ClientLayout>
             </body>
         </html>

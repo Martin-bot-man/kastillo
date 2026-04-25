@@ -1,12 +1,12 @@
 "use client";
 
-import Image from "next/image";
 import { useEffect, useState } from "react";
 import { FaXmark, FaBars } from "react-icons/fa6";
 import { FaPhone } from "react-icons/fa";
 import { IoMail } from "react-icons/io5";
 import Link from "next/link";
 import { ContactBannerProps } from "../_utilities";
+import { BrandMark } from ".";
 
 export function ContactBanner({
     isOverFooter,
@@ -47,17 +47,7 @@ export function ContactBanner({
             {showBanner ? (
                 <>
                     <div className="flex justify-between">
-                        <figure
-                            className="relative w-[96px] h-[63px] sm:w-[112px] sm:h-[74px] mt-2
-"
-                        >
-                            <Image
-                                src="/rolling-hills-industries-cleaning-company-logo.png"
-                                alt="Rolling Hills Industries Commercial Cleaning Company"
-                                fill={true}
-                                quality={100}
-                            />
-                        </figure>
+                        <BrandMark className="m-2" compact={true} />
                         <span
                             className="m-2 cursor-pointer *:size-6"
                             onClick={() => setShowBanner(false)}

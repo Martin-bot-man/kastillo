@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { BsFacebook } from "react-icons/bs";
-import { Button, FooterNavigation } from ".";
+import { BrandMark, Button, FooterNavigation } from ".";
 import { usePathname } from "next/navigation";
 import { FooterProps } from "../_utilities";
 
@@ -57,19 +57,7 @@ export function Footer({ ref }: FooterProps) {
                 </div>
                 <div className="flex gap-3 lg:gap-1 w-full items-center bg-white py-4 lg:py-2 pr-4 lg:pr-2 pl-4 lg:pl-0 text-dark-gray">
                     <div className="hidden lg:block w-[288.13px] xl:w-[345.89px]">
-                        <figure
-                            className="relative w-[96px] h-[63px] md:w-[112px] md:h-[74px] lg:w-[130px] lg:h-[86px]
-"
-                        >
-                            <Image
-                                src="/rolling-hills-industries-cleaning-company-logo.png"
-                                alt="Rolling Hills Industries Commercial Cleaning Company"
-                                className="duration-500 ease-out hover:scale-105 scale-100"
-                                fill={true}
-                                sizes="(max-width: 768px) 96px, (max-width: 1024px) 112px, 170px"
-                                quality={100}
-                            />
-                        </figure>
+                        <BrandMark className="w-fit duration-500 ease-out hover:scale-105 scale-100" compact={true} />
                     </div>
                     <div className="flex flex-col gap-1.5 xl:gap-3 text-center mx-auto text-sm xl:text-base">
                         <p className="*:duration-300 *:ease-out *:hover:cursor-pointer *:hover:text-yellow">
@@ -95,8 +83,7 @@ export function Footer({ ref }: FooterProps) {
                             </Link>{" "}
                             |{" "}
                             <Link
-                                href="/photo-credits
-                            "
+                                href="/photo-credits"
                                 className="hover:text-yellow"
                             >
                                 Photo Credits
