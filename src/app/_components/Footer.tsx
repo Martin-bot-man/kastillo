@@ -71,7 +71,7 @@ export function Footer({ ref }: FooterProps) {
                             </a>
                         </p>
                         <p>
-                            Copyright © 2025 Kastillo Cleaners. All
+                            Copyright © 2026 Kastillo Cleaners. All
                             rights Reserved.
                         </p>
                         <p className="*:duration-300 *:ease-out">
